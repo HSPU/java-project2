@@ -6,7 +6,7 @@ public class Codeup1046_for {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int sum = 0;
+        int sum = 0;                    // for문 안에 두면 값을 0으로 초기화 시킴
         float average = 0;
         int[] numArr = new int[3];
         for (int i = 0; i < numArr.length; i++) {

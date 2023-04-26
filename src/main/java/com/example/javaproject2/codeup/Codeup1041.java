@@ -7,7 +7,7 @@ public class Codeup1041 {
         Scanner sc = new Scanner(System.in);
 
         char alpabet = sc.next().charAt(0);
-        int num = (int) alpabet;
+        int num = alpabet;
         char nextNum = (char) ++num;
 
         System.out.printf("%s", nextNum);
