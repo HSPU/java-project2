@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5eb9453c-1343-480b-b14f-910f5548266e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/ByeClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/ByeClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/CrawlDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/PrintHello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/PrintHelloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1017.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/codeup/Codeup1018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/BufferedReaderEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/BufferedReaderExTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/JavaInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/JavaInputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/ScannerEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/ScannerEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/ScannerExTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/ScannerExTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/AverageEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/ByteTypeExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/DefineAndInitialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/FloatFormatEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/PrintValuesShortage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/PrintWhy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/PrintfDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/PrintfEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/ScannerAndVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/ScannerFormatting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/ScannerStrEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/ScannerStrExTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day4/VariableEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/ConstantEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/MainMemberVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/MyAccountEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/PointTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/SpaceInvaders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/SpaceInvadersMemberVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/com/example/javaproject2/week1/day5/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/com/example/javaproject2/hello-view.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Ojj2OtE5dPNqmKlCc1J0rMbv8N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/git",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eb9453c-1343-480b-b14f-910f5548266e" name="Changes" comment="" />
+      <created>1682080677669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682080677669</updated>
+    </task>
+    <servers />
+  </component>
+</project>
