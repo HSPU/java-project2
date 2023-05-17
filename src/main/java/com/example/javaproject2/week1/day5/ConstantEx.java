@@ -1,6 +1,6 @@
 package com.example.javaproject2.week1.day5;
 
-import com.example.javaproject2.PrintHello;
+import com.example.javaproject2.week1.day2.ByeClass;
 
 public class ConstantEx {
     public final int MAX_LEVEL = 3;
@@ -11,7 +11,7 @@ public class ConstantEx {
      // iVal = 2; 한번 값을 지정하면 바꾸는 것 안됨
         System.out.println(iVal);
 
-        final PrintHello printHello = new PrintHello();
+        final ByeClass.PrintHello printHello = new ByeClass.PrintHello();
 
     }
 }
