@@ -1,9 +1,9 @@
 package com.example.javaproject2.codeup;
 
 import java.io.BufferedWriter;
-import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.util.Scanner;
+        import java.io.IOException;
+        import java.io.OutputStreamWriter;
+        import java.util.Scanner;
 
 public class Codeup1084 {
     public static void main(String[] args) throws IOException {
@@ -17,15 +17,15 @@ public class Codeup1084 {
         int cnt = 0;
         for (int i = 0; i < red; i++) {
             for (int j = 0; j < green; j++) {
-                String line = "";
                 for (int k = 0; k < blue; k++) {
-                    line += i + " " + j + " " + k + "\n";
+                    String str = "";
+                    str += i + " " + j + " " + k + "\n";
                     cnt += 1;
+                    bw.write(str);
                 }
-                bw.write(line);
-                bw.flush();
             }
         }
+        bw.flush();
         System.out.println(cnt);
     }
 }
